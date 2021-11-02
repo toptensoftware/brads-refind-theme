@@ -16,6 +16,14 @@ includes vector (.svg) artwork for all image resources.
     > cd \EFI\Refind\themes
     > xcopy /s YOURCOPYOFTHEME brads-refind-theme
 
+    OR:
+
+    > mountvol b: /s
+    > b:
+    > cd \EFI\Refind\themes
+    > git clone https://github.com/toptensoftware/brads-refind-theme.git
+    
+
 2. Edit your refind.conf:
 
     > cd \EFI\Refind

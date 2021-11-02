@@ -47,9 +47,13 @@ includes vector (.svg) artwork for all image resources.
 If you make changes to any of the images in the .svg files you can easily
 re-export the .svg to .png files as follows:
 
-1. Install inkscape-export utility
+1. Install the [inkscape-export](https://www.npmjs.com/package/inkscape-export) 
+   utility
 
 2. From root directory of this project, run build.bat
+
+For non-Windows platforms, the inkscape-export command should work but you'll
+have to manually run the commands from build.bat.
 
 
 ## Credits

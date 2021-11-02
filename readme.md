@@ -11,23 +11,29 @@ includes vector (.svg) artwork for all image resources.
 
     eg: on Windows run adminstrator command prompt and then:
 
+    ```
     > mountvol b: /s
     > b:
     > cd \EFI\Refind\themes
     > xcopy /s YOURCOPYOFTHEME brads-refind-theme
+    ```
 
     OR:
 
+    ```
     > mountvol b: /s
     > b:
     > cd \EFI\Refind\themes
     > git clone https://github.com/toptensoftware/brads-refind-theme.git
+    ```
     
 
 2. Edit your refind.conf:
 
+    ```
     > cd \EFI\Refind
     > code refind.conf
+    ```
     
     and at the bottom add:
 

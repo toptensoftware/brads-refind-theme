@@ -3,7 +3,7 @@
 A clean, minimal theme for the rEFInd boot loader utility that
 includes vector (.svg) artwork for all image resources.
 
-![Screenshot](https://github.com/toptensoftware/brads-refind-theme/blob/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/toptensoftware/brads-refind-theme/main/screenshot.png)
 
 See all [vector artwork here](https://raw.githubusercontent.com/toptensoftware/brads-refind-theme/main/icons/icons.svg). (Note the yellow backgrounds are 
 guides and aren't included in exported pngs).
